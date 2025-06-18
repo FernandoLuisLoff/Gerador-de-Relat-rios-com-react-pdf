@@ -1,0 +1,19 @@
+body {
+  background-image: url("./assets/background.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #97A3A9;
+  height: 100vh;
+}
+
+.p-button.p-component.p-button-info,
+.p-tag.p-component.p-tag-danger {
+  color: #ffffff;
+}
+.custom-button {
+  width: 13rem;
+  align-self: center;
+}
